@@ -5,8 +5,8 @@ This ReadMe captures the 2024/25 attacking attributes of Alexander Isak, Newcast
 
 Data Source:
 1. [FBREF](https://fbref.com/stathead/player_comparison.cgi?request=1&sum=0&dom_lg=1&player_id1=8e92be30&p1yrfrom=2024-2025&player_id2=5b92d896&p2yrfrom=2024-2025)
-2. [Image faces](Alexander Isak(https://www.fotmob.com/en-GB/players/690107/alexander-isak) & Hugo Ekitiké(https://www.fotmob.com/en-GB/players/1197030/hugo-ekitike)
-3. [Pizza Plot tutorial](https://mplsoccer.readthedocs.io/en/latest/gallery/pizza_plots/plot_pizza_comparison.html#sphx-glr-gallery-pizza-plots-plot-pizza-comparison-py)
+2. Image faces: [Alexander Isak](https://www.fotmob.com/en-GB/players/690107/alexander-isak) & [Hugo Ekitiké](https://www.fotmob.com/en-GB/players/1197030/hugo-ekitike)
+4. [Pizza Plot tutorial](https://mplsoccer.readthedocs.io/en/latest/gallery/pizza_plots/plot_pizza_comparison.html#sphx-glr-gallery-pizza-plots-plot-pizza-comparison-py)
 
 Alexander Isak vs Hugo Ekitiké Domestic League Stats 24/25
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/9afe412b3abe912c5bf8d662da2ecd54af6ee836/Ekitike%20vs%20Isak%2024-25.png)
