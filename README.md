@@ -27,6 +27,8 @@ Palmer vs Saka
 Saka vs Foden
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/e50879495d149957dce2291c8c70a173674ee32d/Palmer%20vs%20Saka%20vs%20Foden/Saka%20vs%20Foden%2023-24.png)
 
+---------------------------
+
 Lamine Yamal vs Raphinha
 
 This ReadMe assesses the attacking statistics of arguably the best player in world football, Lamine Yamal and world-class Raphinha in the 2024/25 LA Liga season. Both wingers werer instrumental in Barcelona's domestic league success——winning La Liga, the Copa del Rey and Supercopa de Espana. With the new football season upon us, it would be interesting to see how they fare out. Lamine Yamal has inherited the iconic number 10 jersey, famously worn by Lionel Messi and Raphinha continues dazzling us with his clutch performances in Europe. WIth the addition of Marcus Rashford (as a loan signing), it will not only interesting to see how we can ge see the best of him but it adds depth to the wide positions——where he excels.
@@ -34,8 +36,10 @@ This ReadMe assesses the attacking statistics of arguably the best player in wor
 Lamine Yamal vs Raphinha 2024/25 La Liga Stats
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/e50879495d149957dce2291c8c70a173674ee32d/Lamine%20Yamal%20vs%20Raphinha/Yamal%20vs%20Raphinha.png)
 
+----------------------------
 
 The Top 4 favourites of the 2025 Ballon d'Or award, come the 22nd of September: 
+
 Raphinha🇧🇷, Lamine Yamal🇪🇸, Mohamed Salah🇪🇬 and Ousmane Dembélé🇫🇷
 
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/1fe763cd36c78108761845c0dbc24cbbc347b4f6/Ballon%20d'Or%20Top%204/Raphinha%20vs%20Yamal%20vs%20Salah%20vs%20Demb%C3%A9l%C3%A9.png)
