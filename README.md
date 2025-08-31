@@ -33,3 +33,9 @@ This ReadMe assesses the attacking statistics of arguably the best player in wor
 
 Lamine Yamal vs Raphinha 2024/25 La Liga Stats
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/e50879495d149957dce2291c8c70a173674ee32d/Lamine%20Yamal%20vs%20Raphinha/Yamal%20vs%20Raphinha.png)
+
+
+The Top 4 favourites of the 2025 Ballon d'Or award, come the 22nd of September: 
+Raphinha🇧🇷, Lamine Yamal🇪🇸, Mohamed Salah🇪🇬 and Ousmane Dembélé🇫🇷
+
+![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/1fe763cd36c78108761845c0dbc24cbbc347b4f6/Ballon%20d'Or%20Top%204/Raphinha%20vs%20Yamal%20vs%20Salah%20vs%20Demb%C3%A9l%C3%A9.png)
