@@ -55,7 +55,7 @@ radar4, vertices4 = radar.draw_radar_solid(dembélé_values, ax=ax,
 
 
 ax.scatter(vertices1[:, 0], vertices1[:, 1],
-           c='#4ECDC4', edgecolors='#4ECDC4', marker='o', s=150, zorder=4)
+           c='#01CCBF', edgecolors='#01CCBF', marker='o', s=150, zorder=4)
 ax.scatter(vertices2[:, 0], vertices2[:, 1],
            c='#4361EE', edgecolors='#4361EE', marker='o', s=150, zorder=4)
 ax.scatter(vertices3[:, 0], vertices3[:, 1],
@@ -71,7 +71,7 @@ param_labels = radar.draw_param_labels(ax=ax, fontsize=20)
 fig_text(
     0.5, 1.03, "<Raphinha> vs <Lamine Yamal> vs <Mohamed Salah> vs <Ousmane Dembélé>",
     size=16, fig=fig,
-    highlight_textprops=[{"color": '#4ECDC4'}, {"color": '#17FF1B'},{"color": '#FF6B6B'},{"color": '#FFD166'}],
+    highlight_textprops=[{"color": "#01CCBF"}, {"color": '#4361EE'},{"color": '#FF6B6B'},{"color": '#FFD166'}],
     ha="center",color="#000000"
 )
 
@@ -79,7 +79,7 @@ fig_text(
 fig_text(
     0.515, 1.00, "2024/25 Season in their Domestic Leagues Per 90 Minutes. 90 minute games played: <31.5>, <31.7>, <37.5>, <19.2>",
     size=10, fig=fig,
-    highlight_textprops=[{"color": '#4ECDC4'}, {"color": '#17FF1B'}, {"color": '#FF6B6B'},{'color': '#FFD166'}],
+    highlight_textprops=[{"color": "#01CCBF"}, {"color": '#4361EE'}, {"color": '#FF6B6B'},{'color': '#FFD166'}],
     ha="center", color="#000000"
 )
 
