@@ -42,4 +42,8 @@ The Top 4 favourites of the 2025 Ballon d'Or award, come the 22nd of September:
 
 Raphinha🇧🇷, Lamine Yamal🇪🇸, Mohamed Salah🇪🇬 and Ousmane Dembélé🇫🇷
 
+How they fare against each other on domestic league stats
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/1fe763cd36c78108761845c0dbc24cbbc347b4f6/Ballon%20d'Or%20Top%204/Raphinha%20vs%20Yamal%20vs%20Salah%20vs%20Demb%C3%A9l%C3%A9.png)
+
+How they fare against each other in all competitions
+![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/47a404c548e4f66e0c6c5af0f4a121bc00282888/Ballon%20d'Or%20Top%204/Raphinha%20vs%20Yamal%20vs%20Salah%20vs%20Demb%C3%A9l%C3%A9%2024-25%20season.png)
