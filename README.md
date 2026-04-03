@@ -14,7 +14,7 @@ Alexander Isak vs Hugo Ekitiké Domestic League Stats 24/25
 Alexander Isak vs Hugo Ekitiké Domestic League Stats Per 90
 ![image_alt](https://github.com/Siphe247/Comparison-Pizza/blob/9afe412b3abe912c5bf8d662da2ecd54af6ee836/Ekitike%20vs%20Isak%20per%2090.png)
 
-To make the visualisations, I used Python packages such as Pandas and Matplotlib to make the pizza charts.
+To make the visualisations, I used Python packages such as Pandas and Matplotlib.
 
 ------------------------
 
