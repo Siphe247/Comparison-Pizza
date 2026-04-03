@@ -1,7 +1,7 @@
 # Comparison-Pizza
 Comparison Pizza of Alexander Isak🇸🇪 & Hugo Ekitike🇫🇷
 
-This ReadMe captures the 2024/25 attacking attributes of Alexander Isak, Newcastle United's sought-after striker, who has been linked with a move to Liverpool amidst his future. His attributes are being compared to that of Hugo Ekitiké, Liverpool's new signing, who was signed because Isak was not up for sale according to Newcastle. Now, the timing of Isak's desire to leave (2 days after Ekitiké joined Liverpool), making this transfer saga crazier. Should Liverpool acquire Isak's services, it would make an interesting contest as to who plays upfront for the Reds this coming season. Feel free to read the [Substack](https://substack.com/@siphe247/note/p-169297348?utm_source=notes-share-action&r=6145vc).
+This ReadMe captures the 2024/25 attacking attributes of Alexander Isak, Newcastle United's sought-after striker, who has been linked with a move to Liverpool amidst his future. His attributes are being compared to that of Hugo Ekitiké, Liverpool's new signing, who was signed because Isak was not up for sale according to Newcastle. Now, the timing of Isak's desire to leave (2 days after Ekitiké joined Liverpool), making this transfer saga crazier. Should Liverpool acquire Isak's services, it would make an interesting contest as to who plays upfront for the Reds this coming season. Feel free to read the [Substack]([https://substack.com/@siphe247/note/p-169297348?utm_source=notes-share-action&r=6145vc](https://substack.com/home/post/p-169297348)).
 
 Data Source:
 1. [FBREF](https://fbref.com/stathead/player_comparison.cgi?request=1&sum=0&dom_lg=1&player_id1=8e92be30&p1yrfrom=2024-2025&player_id2=5b92d896&p2yrfrom=2024-2025)
